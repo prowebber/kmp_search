@@ -1,0 +1,11 @@
+#
+# Ignore JetBrains config files, but track shared scopes
+.idea/
+!.idea/scopes
+
+#
+# Python
+*.py[cod]
+__pycache__/
+env/
+venv/
